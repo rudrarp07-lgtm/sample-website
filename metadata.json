@@ -1,0 +1,6 @@
+{
+  "name": "Real Wood Furniture - Showroom Gurgaon",
+  "description": "Handcrafted wooden furniture showroom in Gurgaon, Haryana. Premium Sheesham and Teak wood beds, dining tables, sofas, wardrobes, and chairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
